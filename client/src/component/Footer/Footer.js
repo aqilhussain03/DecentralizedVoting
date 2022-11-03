@@ -23,11 +23,11 @@ const Footer = () => (
           Made with <i className="fas fa-heartbeat" /> by{" "}
           <a
             className="profile"
-            href="https://arlbibek.github.io"
+            href="https://github.com/aqilhussain03"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Bibek Aryal
+            Aqil Hussain
           </a>
           .
         </p>

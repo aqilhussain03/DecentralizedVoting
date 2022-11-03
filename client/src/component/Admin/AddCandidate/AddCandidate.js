@@ -148,7 +148,7 @@ export default class AddCandidate extends Component {
               <button
                 className="btn-add"
                 disabled={
-                  this.state.header.length < 3 || this.state.header.length > 21
+                  this.state.header.length < 3 || this.state.header.length > 25
                 }
                 onClick={this.addCandidate}
               >
