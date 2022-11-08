@@ -27,7 +27,7 @@ const Footer = () => (
             target="_blank"
             rel="noopener noreferrer"
           >
-           | Abdul Azeez 21it01 |
+           | ABDUL AZEEZ 21IT01 |
           </a>
           <a
             className="profile"
@@ -35,7 +35,7 @@ const Footer = () => (
             target="_blank"
             rel="noopener noreferrer"
           >
-           | Siddiq |
+           | AHAMED SIDDIQ 21IT11 |
           </a>
           <a
             className="profile"
@@ -43,7 +43,7 @@ const Footer = () => (
             target="_blank"
             rel="noopener noreferrer"
           >
-           | Aqil Hussain 21it17 |              
+           | AQIL HUSSAIN 21IT17 |              
           </a>
           .
         </p>
