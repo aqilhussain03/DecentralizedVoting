@@ -11,7 +11,7 @@ const Footer = () => (
           View this project on{" "}
           <a
             className="profile"
-            href="https://github.com/arlbibek/dVoting"
+            href="https://github.com/aqilhussain03/DecentralizedVoting"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -20,14 +20,30 @@ const Footer = () => (
           .
         </p>
         <p>
-          Made with <i className="fas fa-heartbeat" /> by{" "}
+          Made with 💛 by{" "}          
           <a
             className="profile"
-            href="https://github.com/aqilhussain03"
+            href="https://www.instagram.com/_azxxz.___/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Aqil Hussain
+           | Abdul Azeez 21it01 |
+          </a>
+          <a
+            className="profile"
+            href="https://www.instagram.com/e_rik___/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+           | Siddiq |
+          </a>
+          <a
+            className="profile"
+            href="https://www.instagram.com/aqil.hussain03/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+           | Aqil Hussain 21it17 |              
           </a>
           .
         </p>
